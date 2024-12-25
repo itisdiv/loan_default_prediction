@@ -1,0 +1,101 @@
+Age,Gender,Marital Status,Education,Annual Income,Credit Score,Previous Defaults,Loan Purpose,Default
+59,Male,Single,Bachelor,31093,575,1,Business,0
+49,Female,Single,Master,38070,508,0,Business,0
+35,Female,Married,PhD,55777,573,0,Personal,1
+28,Female,Single,High School,76958,752,0,Car,0
+41,Male,Married,High School,102074,729,3,Business,0
+59,Male,Married,PhD,30729,506,1,Business,1
+39,Male,Divorced,High School,119713,673,1,Car,1
+43,Male,Married,PhD,65017,640,1,Business,0
+31,Male,Divorced,High School,86320,667,0,Home,1
+31,Male,Single,Bachelor,47751,669,1,Home,0
+44,Female,Single,High School,126400,782,1,Car,1
+56,Male,Single,PhD,125864,621,0,Personal,0
+44,Male,Single,PhD,98069,693,2,Personal,0
+23,Male,Divorced,PhD,125647,504,0,Car,1
+42,Female,Single,PhD,125510,528,1,Car,0
+22,Male,Married,PhD,74748,664,0,Home,0
+44,Male,Married,Master,25801,838,2,Personal,1
+50,Female,Married,Master,39190,635,0,Business,1
+58,Male,Divorced,High School,69689,820,1,Home,0
+22,Male,Single,PhD,124290,841,2,Car,0
+41,Male,Single,High School,70993,644,3,Personal,0
+53,Male,Single,PhD,49592,826,1,Business,0
+32,Male,Divorced,PhD,30647,716,2,Business,0
+42,Female,Married,Master,28716,800,2,Home,0
+45,Female,Married,Master,108891,631,3,Personal,1
+47,Female,Single,Bachelor,107545,791,0,Personal,0
+48,Male,Married,Master,137638,569,0,Car,0
+36,Male,Married,Bachelor,109912,751,1,Personal,0
+35,Male,Divorced,Bachelor,130627,774,3,Personal,1
+23,Female,Divorced,Bachelor,90316,681,0,Home,0
+57,Male,Divorced,Bachelor,146995,666,3,Personal,0
+27,Male,Divorced,Bachelor,22368,590,0,Business,0
+41,Female,Single,High School,97575,701,2,Home,0
+29,Male,Divorced,Master,26655,845,0,Home,0
+59,Female,Married,Bachelor,126477,518,3,Car,1
+38,Female,Single,PhD,90031,538,2,Personal,1
+24,Female,Married,Master,96429,625,2,Car,0
+45,Male,Married,Master,111083,672,2,Business,0
+34,Male,Married,Bachelor,107922,640,3,Home,1
+29,Male,Divorced,High School,75766,741,1,Home,1
+46,Male,Divorced,Bachelor,144046,719,1,Home,0
+22,Male,Single,High School,33403,625,1,Business,0
+40,Male,Single,PhD,52097,557,3,Business,0
+48,Male,Divorced,Master,98657,647,2,Car,0
+27,Female,Married,PhD,140607,816,1,Car,1
+28,Male,Single,High School,30966,500,3,Car,1
+55,Female,Divorced,High School,144862,847,1,Personal,1
+34,Male,Divorced,PhD,119157,689,0,Home,0
+37,Male,Divorced,High School,138834,690,1,Home,0
+56,Male,Married,PhD,113848,811,1,Car,1
+24,Female,Divorced,Master,72921,616,2,Home,1
+22,Female,Divorced,PhD,69726,633,3,Car,0
+26,Female,Divorced,Master,146141,557,2,Personal,1
+24,Female,Divorced,PhD,70300,543,2,Personal,1
+49,Male,Single,High School,42677,672,2,Business,0
+38,Female,Single,PhD,75609,659,2,Personal,0
+46,Male,Divorced,High School,116825,672,2,Car,0
+54,Male,Married,PhD,76661,816,1,Personal,0
+30,Female,Single,PhD,51024,802,2,Business,0
+56,Female,Divorced,Bachelor,128211,648,2,Home,1
+34,Female,Single,High School,90313,579,3,Car,0
+51,Female,Single,Bachelor,147813,712,0,Home,0
+35,Female,Married,High School,73006,702,1,Business,0
+28,Female,Divorced,Bachelor,115285,751,1,Business,0
+34,Female,Divorced,Master,35338,728,1,Business,1
+43,Female,Married,PhD,88027,663,2,Home,0
+41,Male,Married,High School,112772,726,2,Home,0
+36,Female,Divorced,High School,133632,646,2,Home,1
+38,Female,Divorced,PhD,100135,519,3,Home,0
+44,Male,Married,High School,39508,546,0,Business,0
+46,Female,Single,High School,140379,732,2,Business,0
+45,Male,Single,Bachelor,23051,804,0,Car,0
+49,Male,Married,High School,68747,513,3,Car,0
+35,Female,Single,Master,134692,642,1,Home,0
+21,Male,Married,Master,107142,500,2,Personal,0
+45,Male,Single,PhD,107235,553,0,Personal,1
+27,Male,Single,High School,74021,758,0,Business,0
+29,Male,Divorced,PhD,86412,643,2,Business,0
+44,Female,Divorced,Master,78335,511,1,Business,0
+21,Male,Single,High School,76179,829,1,Car,0
+28,Female,Single,High School,52093,723,1,Car,0
+44,Male,Divorced,PhD,89678,771,3,Business,0
+31,Male,Divorced,Master,100738,655,0,Business,1
+37,Male,Divorced,High School,59734,507,0,Business,0
+28,Male,Married,PhD,92615,621,0,Personal,0
+55,Female,Single,Master,93523,847,3,Car,0
+55,Female,Divorced,PhD,125103,663,0,Personal,1
+53,Male,Single,Bachelor,114476,589,3,Personal,0
+25,Male,Married,High School,122769,635,1,Business,0
+59,Female,Married,Bachelor,37019,685,2,Business,0
+48,Male,Divorced,Master,131721,815,0,Home,1
+27,Male,Married,Bachelor,103613,677,0,Home,0
+29,Male,Single,Bachelor,111794,527,1,Personal,1
+28,Female,Divorced,Master,106672,719,2,Car,0
+32,Female,Single,PhD,93847,540,3,Business,0
+54,Female,Single,Bachelor,102750,727,2,Business,0
+53,Male,Married,PhD,99634,691,1,Personal,0
+43,Male,Married,Bachelor,48251,644,1,Home,0
+44,Female,Married,PhD,123481,700,2,Car,0
+57,Female,Married,Master,132566,711,3,Home,1
